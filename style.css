@@ -1,0 +1,21 @@
+.seccion-historia{
+    color: rgb(172, 15, 15);
+    text-align: center;
+}
+
+.secciones-discos{
+    border: solid 3px black;
+    background-color: gray;
+    color: orange;
+}
+
+.titulo-discografia{
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+    color: orange;
+    background-color: gray;
+}
+.list-group-item{
+    color: orange;
+}
